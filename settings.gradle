@@ -1,0 +1,4 @@
+rootProject.name = 'stock-client-root'
+include 'stock-client'
+include 'stock-ui'
+
